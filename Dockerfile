@@ -14,4 +14,4 @@ RUN cp -r /tmp/templatemo_610_aurum_gold/* /var/www/html/
 
 EXPOSE 80
 
-CMD ["nginx", "-g", "daemon off;"]Wq
+CMD ["nginx", "-g", "daemon off;"]
